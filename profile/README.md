@@ -1,4 +1,6 @@
-# Nergster
+# NOTE: Archived in favor of https://srclabs.dev
+
+## Nergster
 
 A bunch of nerds using Rusty old skills to make shiny new things, together.
 
